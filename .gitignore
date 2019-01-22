@@ -108,3 +108,16 @@ fabric.properties
 # End of https://www.gitignore.io/api/intellij
 
 .idea
+.idea/
+*.iml
+
+.classpath
+.project
+.class
+.DS_Store
+.idea/
+.settings/
+bin/
+out/
+out
+bin
